@@ -1,0 +1,11 @@
+This is a mirror of http://www.vim.org/scripts/script.php?script_id=4384
+
+File Pirate is a fuzzy file picker plug-in for Vim, in the tradition of Textmate GoToFile and the Cmd-T plug-in. Its key differentiating feature is that it is very fast, even for large repositories (expect real-time response for a directory of 50 000 files).
+
+It requires Vim with Python support, the ability to compile native code, and a Mac or Linux system. Windows support is planned.
+
+All key mappings are easily customisable.
+
+More information and a screenshot: http://code.lardcave.net/entries/2012/12/27/234103/
+
+Detailed documentation, installation instructions, and download links: https://github.com/nfd/filepirate
